@@ -1,0 +1,14 @@
+h1,
+h2,
+.add-task {
+  text-align: center;
+}
+body{
+  background-color: tan;
+  color: white;
+  text-shadow: 2px 2px 3px #000;
+}
+button:hover {
+  background-color: #D2691E;
+  color: white;
+}
